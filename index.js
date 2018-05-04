@@ -9,7 +9,7 @@ function nowServing () {
   while (i<katzDeli.length) {
     i++;
   }
-  if (katzDeli.length===0)
+  if (katzDeli.length===0) {
   return ("There is nobody waiting to be served!");
 }
 else 
