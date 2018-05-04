@@ -7,7 +7,7 @@ function takeANumber (katzDeli, name) {
 function nowServing () {
   let i=0;
   while (i<katzDeli.length) {
-    i++
+    i++;
   }
   
 }
